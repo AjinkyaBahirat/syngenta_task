@@ -102,7 +102,6 @@ python app.py
 * **Confidence Thresholding:** Predictions with confidence < 60% can be treated as
   `"Unknown"` or `"Healthy"` to minimize false positives in production.
 
-
 ---
 # 💡 Suggested Idea: Syngenta CropGuard AI Agent
 
