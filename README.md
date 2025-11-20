@@ -1,8 +1,3 @@
-Here is your content converted into clean, copy-ready **Markdown format**:
-
----
-
-```markdown
 # 🌱 Syngenta Plant Disease Detection System
 
 ## 📖 Project Overview
@@ -56,8 +51,8 @@ Organize your dataset as follows inside the project root directory:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/AjinkyaBahirat/syngenta_task.git
+cd syngenta_task
 ````
 
 ### 2. Install Dependencies
